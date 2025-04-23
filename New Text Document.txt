@@ -1,0 +1,168 @@
+link  -------               https://classes.nareshit.com/
+username ------             7058620903
+password  -------	    480b2e
+
+
+username ------ 25162858404             
+password  -----112233
+
+GIT Passw-------Shubhamkapse2604@123
+
+
+				SHIVANI#123
+
+
+
+Whats app 9293226789     ---for help
+
+
+
+
+
+
+
+C:\Windows\system32\battery-report.html
+
+
+sk260499xyz.shop
+
+
+https://github.com/CloudTechDevOps/Terraform-09-00am
+
+
+
+
+
+
+
+#####DevOps Engineer position at an MNC with 3.5 years of experience. 
+
+Please find the list of questions.
+
+1)Tell me about your self
+2)what is Your role role?
+3)what Challenges you are facing in daily work ? How you fixed those?
+4)what is AAS , PAAS, SAAS,
+5) what scripting language yor are using
+6)Tell me 20 Power sheel command 
+7)Explain How docker intract with host
+8)Can a container automatically start?
+8)Git command
+9)Difference b/w git rebase and git merge
+10)what is Sonareqube how it works? Where you are using it in your daily task?
+11)what is Ansible how it works? where your are using ansible in your daily task ?
+13)What you are doing in teeraform
+14)full deployment flow digram od CI/CD
+15) what is difference b/w devops and ci/cd
+16) docker command
+17) how you are merging and deploying package
+18 what kind of scripting you are using in ci/cd
+19) what us difference b/w groovy and declarative 
+20) write syntax script of groovy and declarative 
+21)Explain the flow of  you ci/cd in your project
+22) what you have done to reduce the cost and optimize the deployment process as a DevOps Engineer
+
+
+
+#######################2###############################
+
+
+
+Devops interview question 
+
+1. What is DevOps Lifecycle?
+2. Have you used any Linux Flavors, if yes, which one?
+3. What is the command to change the ownership and permission of a file or     directory in Linux?
+4. How do you manage and view running processes in Linux?
+5. What is SSH?
+6. What is DNS (Domain Name System), and how does it work?
+7. What is NAT(Network Address Translatioj), and why is it used?
+8. Explain the difference between TCP and UDP Protocols?
+9. What os Git and how do we use it in DevOps?
+10. Explain the workflow of how to push the code from a local machine?
+11. How do you revert a commit that you made in your repository?
+12. What is a Branch in a Repository?
+13. What cloud you are familiar with?
+14. What is VPC in cloud?
+15. What is the difference between a Private and Public Subnet and what differentiates it?
+16. What is the Deifference between reserved instance and spot instances?
+17. What is CloudFormation (AWS) ?
+18. What are the popular IaC tools have you used?
+19. What is the difference between Terraform & Ansible?
+20. What is a playbook in Ansible?
+21. What is a state file in terraform?
+22. What is Terraform Remote state backend?
+23. What is the Difference between Virtualization and containerization?
+24. What problem does Docker Solves?
+25. What is Dockerfile and why do we use it?
+26. Explain the workflow of how a Docker Container is created?
+27. How do you manage multiple Containers?
+28. What is Ci and CD in CICD?
+29. What CICD tools have you used in the past?
+30. How will you create a CICD pipeline to update the website or app on every commit to a particular branch? (mostly asked in the coding test)?
+31. Explain staging, production and testing environment.?
+32. What is a Blue Green Deployment?
+33. Explain Canary Deployment?
+34. What is the biggest issue you faced, how did you resolve it.?
+35. How do you scale your application?
+36. How do you rollback if something fails?
+37. How do you automate Deployments?
+38. Which tools have you used for automating deployments?
+39. Have you written any Jenkins Pipeline from scratch?
+40. Mention some plugins you have used in Jenkins?
+41. What is CI/CD?
+42. How can you create backup and copy files in Jenkins?
+43. Assume you have 2 Jenkins jobs. So, the first job completed successfully              but the 2nd job failed. What will you do?
+44. Can you tell me the process to integrate git with Jenkins?
+45. Can you tell me what is DSL in Jenkins?
+46. Why we use Jenkins instead of Bamboo? Difference between them?
+47. How to deploy a custom build of a code plugin to Jenkins?
+48. What is the use of Jenkins home directory?
+49. How do take backup of Jenkins Jobs?
+50. What is the way to configure Jenkins nodes agent with Jenkins master?
+
+
+
+############3###################
+
+Naresh Badavath
+today interview question#####
+
+tell me about your self ?
+
+can u explain about what is your daily activity  ?
+
+different between sg and nacl ?
+what is cname type and Atype ?
+jenkins stages ?
+different between declarative script and pipeline script ?
+what is k8s pod?
+k8s namespace ?
+ansible node ?
+where do u cfg target node ips ?
+iam user and role ?
+ansible ssh ?
+docker environment variable ?
+docker endpoint? 
+what do u have implemented automation using shell script using shell ?
+what is private ip and public id and how do u connect public to private ?
+how do u enable integrate  for automation in jenkins ci something kind of question ?
+
+few questions asked but didn’t remember
+
+
+
+
+
+
+aws migration video link
+https://drive.google.com/file/d/1NX0xgrWFgV8qAlaiRyt4vN7Amvtm7G5_/view?usp=drive_web&authuser=0
+
+
+
+2513 982 5658   -------------webex azureworkshop username
+
+https://portal.azure.com/#@mydekstop2604gmail.onmicrosoft.com/resource/subscriptions/b176e65d-0d04-4b31-98f0-a5123f1d5024/resourceGroups/sk/overview
+
+
+
